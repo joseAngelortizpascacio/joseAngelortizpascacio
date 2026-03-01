@@ -1,76 +1,58 @@
-### Hola, soy José Ángel Ortiz Pascacio <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-## Ingeniero de Sistemas & Integrador de Exocórtex Táctico
-
-### Sobre Mí
-
-- 💼 **Perfil:** Ingeniero de Sistemas (10º Ciclo) enfocado en Integración IoT, Administración de Servidores y Sistemas Autónomos.
-- 🔭 **Actualmente aprendiendo:** Implementaciones de Rust para LLMs, pfSense, TimescaleDB y Telemetría Avanzada.
-- 🎯 **Objetivos 2026:** Completar tesis sobre Optimización de Motores de Inferencia para Sistemas Autónomos mediante Arquitecturas Neuro-Inspiradas.
-- 🤝 **Buscando colaborar en:** Robótica de alta velocidad, Sistemas de Innovación Autónomos y Clustering de Big Data.
-- ⚡ **Dato curioso:** Opero un servidor híbrido en un Redmi Cyberdeck y proceso datos técnicos a velocidades 4x-6x.
-
-### Tech Stack
-
 <div align="center">
-
-**Sistemas, Backend y Lenguajes**
-<br>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-
-**Hardware, IoT y Herramientas**
-<br>
-<img src="https://img.shields.io/badge/-Arduino_&_ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/-Blender_3D-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender">
-<img src="https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=gnu-terminal&logoColor=white" alt="Termux">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e76a8&height=250&section=header&text=Jos%C3%A9%20%C3%81ngel%20Ortiz&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Ingeniero%20de%20Sistemas%20%7C%20Integrador%20IoT%20%7C%20Exoc%C3%B3rtex%20T%C3%A1ctico&descAlignY=75" width="100%"/>
 </div>
 
-### Contáctame
+### 🛰️ Telemetría Operativa
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jose-angel-a616231ab/" rel="nofollow">
-  <img src="https://img.shields.io/badge/-José_Ángel-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="mailto:joseortizpascacio@gmail.com" rel="nofollow">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Email Badge">
-</a>
-<a href="https://github.com/joseAngelortizpascacio" rel="nofollow">
-  <img src="https://img.shields.io/github/followers/joseAngelortizpascacio?label=Seguidores&style=social" alt="GitHub Followers">
-</a>
-
-</div>
+- ⚙️ **Núcleo de Operaciones:** Ingeniero de Sistemas (10º Ciclo) enfocado en Integración IoT, Clusters Big Data y Orquestación Autónoma.
+- 🧠 **Carga en Memoria:** Implementaciones nativas en Rust para LLMs, pfSense, TimescaleDB y Seguridad de Redes.
+- 🎯 **Directiva Principal:** Optimización de Motores de Inferencia para Sistemas Autónomos mediante Arquitecturas Neuro-Inspiradas.
+- ⚡ **Especificaciones del Sistema:** Operación asíncrona a velocidad 4x-6x. Servidor híbrido activo sobre hardware Redmi Cyberdeck (Termux/LineageOS).
 
 ---
 
-### Estadísticas y Métricas de GitHub
+### 🛠️ Arsenal Tecnológico
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseAngelortizpascacio&layout=compact&theme=radical)
-
-[![Estadísticas de GitHub de José](https://github-readme-stats.vercel.app/api?username=joseAngelortizpascacio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseAngelortizpascacio&theme=radical)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joseAngelortizpascacio&theme=radical)
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joseAngelortizpascacio&theme=radical)
-
-![Repositories](https://img.shields.io/badge/Repositorios-10+-blue?style=flat-square)
-![Contributions](https://img.shields.io/badge/Contribuciones-100+-green?style=flat-square)
-![Commit Activity](https://img.shields.io/badge/Desarrollador%20Activo-Si-success?style=flat-square)
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=800&lines=Ingeniero+de+Sistemas;IoT+y+Sistemas+Distribuidos;Automatizacion+Autonoma;Exocortex+Tactico+Activo" alt="Typing SVG">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,mysql,bash,linux,ubuntu,docker,arduino,blender,git,github,vscode,nodejs&perline=8" alt="Tech Stack" />
   </a>
-</p>
+</div>
+
+---
+
+### 📊 Panel de Rendimiento (Dashboard)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joseAngelortizpascacio&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseAngelortizpascacio&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&locale=es" alt="Estadísticas Base" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseAngelortizpascacio&theme=radical&hide_border=true&background=0D1117&locale=es" alt="Racha de Commits" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseAngelortizpascacio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&locale=es" alt="Lenguajes Top" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joseAngelortizpascacio&theme=radical&bg_color=0D1117" alt="Detalles de Perfil" width="48%" />
+</div>
+
+---
+
+### 📡 Protocolos de Conexión
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jose-angel-a616231ab/">
+    <img src="https://img.shields.io/badge/LinkedIn_Operativo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joseortizpascacio@gmail.com">
+    <img src="https://img.shields.io/badge/Comando_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=2198f7&width=800&lines=Ingeniero+de+Sistemas;Integracion+IoT+y+Sistemas+Distribuidos;Automatizacion+Autonoma+Activa;Exocortex+Tactico+En+Linea" alt="Typing SVG">
+</div>
