@@ -1,3 +1,15 @@
+Estudiante de Ingeniería en Sistemas (10° Ciclo) enfocado en Integración IoT,
+Administración de Servidores diseño y Prototipado. Experiencia práctica en la
+materialización de soluciones tecnológicas: desde el diseño 3dconceptual (Blender) y
+control de hardware (ESP32/Arduino) hasta el despliegue de infraestructura y sistemas
+operativos. 
+Perfil técnico versátil: Capacidad para investigar, adaptar y desplegar lógica en 
+múltiples lenguajes (Python, C++, SQL, Rust) según los requerimientos del 
+proyecto, con énfasis en scripting y automatización. Competencia en virtualización 
+y gestión de proyectos de investigación (I+D) aplicados a la optimización de 
+procesos operativos."
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0e76a8&height=250&section=header&text=Jos%C3%A9%20%C3%81ngel%20Ortiz&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Ingeniero%20de%20Sistemas%20%7C%20IoT%20%26%20Sistemas%20Distribuidos&descAlignY=75" width="100%"/>
 </div>
