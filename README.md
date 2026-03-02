@@ -1,8 +1,10 @@
 Estudiante de Ingeniería en Sistemas (10° Ciclo) enfocado en Integración IoT,
 Administración de Servidores diseño y Prototipado. Experiencia práctica en la
-materialización de soluciones tecnológicas: desde el diseño 3dconceptual (Blender) y
+materialización de soluciones tecnológicas: desde el diseño 3d conceptual (Blender) y
 control de hardware (ESP32/Arduino) hasta el despliegue de infraestructura y sistemas
 operativos. 
+
+
 Perfil técnico versátil: Capacidad para investigar, adaptar y desplegar lógica en 
 múltiples lenguajes (Python, C++, SQL, Rust) según los requerimientos del 
 proyecto, con énfasis en scripting y automatización. Competencia en virtualización 
